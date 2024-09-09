@@ -1,8 +1,4 @@
-/*
-	Assigned by:
-	Adi Haim #322893389
-	Afik Aharon #323917310
-*/
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
